@@ -23,3 +23,7 @@ xhr.send();
 
 
 console.log('hello world');
+
+//  ovo ce prvo da se log zato sto xhr radi iza sceme dok ne dodje 
+// redy na 4 i status 200 nece se izvrsiti zato se ovo log prvo
+// sve ovo gre se izvrsava u pozadini sve je u ms...
